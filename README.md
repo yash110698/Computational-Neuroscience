@@ -9,8 +9,8 @@ Built computational simulations of numerous single layer neuron models using Pyt
  [Results](https://github.com/yash110698/Computer-Neuroscience/blob/main/Hopfield%20network/hopfield.pdf)
 
 - Simulated Spike trains using poisson process and computed fano factor and spike triggered averages.
- [Report here](https://github.com/yash110698/Computer-Neuroscience/blob/main/Spike%20Trains/SpikeTrains.pdf)
+ [Report](https://github.com/yash110698/Computer-Neuroscience/blob/main/Spike%20Trains/SpikeTrains.pdf)
 
 - Simulated the Leaky Integrate & Fire neuron model and demonstrated Spike Timing Dependent Plasticity (STDP).
- [Report here](https://github.com/yash110698/Computer-Neuroscience/blob/main/Leaky%20Int%20%26%20Fire%20Neuron/LIF_neuron.pdf)
+ [Report](https://github.com/yash110698/Computer-Neuroscience/blob/main/Leaky%20Int%20%26%20Fire%20Neuron/LIF_neuron.pdf)
 
