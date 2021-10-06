@@ -1,4 +1,4 @@
-# Computer-Neuroscience
+# Computational-Neuroscience
 
 ### Simulation-of-Neuron-Models
 
